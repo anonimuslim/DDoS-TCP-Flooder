@@ -7,7 +7,7 @@ This DDoS TCP Flood attack will exploit the three-way handshaking mechanism of t
 This directory contains DDoS TCP Flooder scripts that you can use in a Linux environment.
 
 ## How to install?
-1. $ ``git clone https://github.com/Kevlog/DDoS-FTP-Flooder``
+1. $ ``git clone https://github.com/anonimuslim/DDoS-FTP-Flooder``
 2. $ ``cd DDoS-FTP-Flooder``
 3. $ ``sudo apt install python3``
 4. $ ``sudo apt install python3-pip``
