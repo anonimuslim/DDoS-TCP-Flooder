@@ -8,8 +8,8 @@ import progressbar
 os.system("clear")
 
 print("""
-   \033[91m.\033[97m__=\033[94m[\033[97m Recoded by \033[92mKevlog \033[94m]\033[97m=__\033[91m.
- \033[97m.--\033[94m[ \033[97mForked from HC-R.Code07 \033[94m]\033[97m--.\033[97m
+ \033[91m.\033[97m__=\033[94m[\033[97m Recoded by \033[92mAnonimuslim \033[94m]\033[97m=__\033[91m.
+ \033[97m.--\033[94m[ \033[97mForked from: HC-R.Code07 \033[94m]\033[97m--.\033[97m
 """)
 print("\033[97m ------------------------------")
 print("\033[91m Fill in the target data first!")
